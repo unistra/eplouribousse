@@ -1,0 +1,12 @@
+=head1 Eplouribousse
+
+Eplouribousse est un logiciel d'instruction de recouvrement des collections périodiques.
+
+=head1 Installation
+
+    git clone https://github.com/unistra/eplouribousse.git
+    # install perl deps with plackup
+    # build your database there
+    plackup
+    # eplouribousse is now running on :5000
+
