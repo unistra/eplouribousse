@@ -1,6 +1,6 @@
 package PPN;
 use Modern::Perl;
-use Eplouribousse;
+use Eplouribousse::Utils;
 use YAML ();
 use autodie;
 use IO::All;

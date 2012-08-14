@@ -1,5 +1,5 @@
 package RCR;
-use Eplouribousse;
+use Eplouribousse::Utils;
 use Modern::Perl;
 use File::Path qw< make_path >;
 use Perlude;
