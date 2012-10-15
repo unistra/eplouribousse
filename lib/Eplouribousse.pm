@@ -6,7 +6,7 @@ use Plack::Builder;
 use Plack::Request;
 use YAML ();
 use Perlude;
-use Eplouribousse;
+use Eplouribousse::Utils;
 use autodie;
 use RCR;
 use PPN;
