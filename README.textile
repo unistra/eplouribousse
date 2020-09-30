@@ -1,3 +1,6 @@
 RDV aux "journées ABES":http://www.abes.fr/Publications-Evenements/Journees-ABES/Onziemes-Journees-ABES-19-20-juin-2012
 
 A bientôt
+
+Nouveau (Septembre 2020) :
+Une nouvelle version complètement refondue d'eplouribousse est désormais disponible : https://github.com/GGre/eplouribounistra
